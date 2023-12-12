@@ -10,6 +10,7 @@ kernel.
 
 Driver: HCI-BCM Broadcom Bluetooth firmware
 
+File: "brcm/BCM43241B0.asus,p1801-t.hcd"
 File: "brcm/BCM4329B1.samsung,crespo.hcd"
 File: "brcm/BCM4329B1.acer,picasso.hcd"
 File: "brcm/BCM4329B1.asus,tf201.hcd"
@@ -34,6 +35,7 @@ Driver: brcmfmac - Broadcom 802.11n fullmac wireless LAN driver.
 File: brcm/brcmfmac4329-sdio.bin
 File: brcm/brcmfmac4330-sdio.bin
 File: brcm/brcmfmac4330-sdio.abg.bin
+File: "brcm/brcmfmac43241b0-sdio.asus,p1801-t.bin"
 
 Licence: Redistributable. See LICENCE.broadcom_bcm43xx for details.
 
@@ -56,6 +58,7 @@ File: "brcm/brcmfmac4330-sdio.asus,tf600t.txt"
 Link: brcm/brcmfmac4330-sdio.asus,tilapia.txt -> brcmfmac4330-sdio.asus,grouper.txt
 Link: brcm/brcmfmac4330-sdio.asus,tf700t.txt -> brcmfmac4330-sdio.asus,grouper.txt
 Link: brcm/brcmfmac4330-sdio.pegatron,chagall.txt -> brcmfmac4330-sdio.asus,grouper.txt
+File: "brcm/brcmfmac43241b0-sdio.asus,p1801-t.txt"
 
 Licence: GPLv2. See GPL-2 for details.
 
