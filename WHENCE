@@ -12,6 +12,8 @@ Driver: HCI-BCM Broadcom Bluetooth firmware
 
 File: "brcm/BCM4329B1.samsung,crespo.hcd"
 File: "brcm/BCM4329B1.acer,picasso.hcd"
+File: "brcm/BCM4330B1.asus,grouper.hcd"
+Link: brcm/BCM4330B1.asus,tilapia.hcd -> BCM4330B1.asus,grouper.hcd
 
 Licence: Redistributable. See LICENCE.APACHE-2.0 for details.
 
@@ -32,6 +34,8 @@ Licence: Redistributable. See LICENCE.cypress for details.
 
 File: "brcm/brcmfmac4329-sdio.acer,picasso.txt"
 File: "brcm/brcmfmac4329-sdio.samsung,crespo.txt"
+File: "brcm/brcmfmac4330-sdio.asus,grouper.txt"
+Link: brcm/brcmfmac4330-sdio.asus,tilapia.txt -> brcmfmac4330-sdio.asus,grouper.txt
 
 Licence: GPLv2. See GPL-2 for details.
 
