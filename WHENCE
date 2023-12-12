@@ -12,8 +12,17 @@ Driver: HCI-BCM Broadcom Bluetooth firmware
 
 File: "brcm/BCM4329B1.samsung,crespo.hcd"
 File: "brcm/BCM4329B1.acer,picasso.hcd"
+File: "brcm/BCM4329B1.asus,tf201.hcd"
+Link: brcm/BCM4329B1.asus,tf101.hcd -> BCM4329B1.asus,tf201.hcd
+Link: brcm/BCM4329B1.asus,tf101g.hcd -> BCM4329B1.asus,tf201.hcd
+Link: brcm/BCM4329B1.asus,sl101.hcd -> BCM4329B1.asus,tf201.hcd
+Link: brcm/BCM4329B1.asus,tf300t.hcd -> BCM4329B1.asus,tf201.hcd
+Link: brcm/BCM4329B1.asus,tf300tg.hcd -> BCM4329B1.asus,tf201.hcd
+Link: brcm/BCM4329B1.asus,tf300tl.hcd -> BCM4329B1.asus,tf201.hcd
 File: "brcm/BCM4330B1.asus,grouper.hcd"
 Link: brcm/BCM4330B1.asus,tilapia.hcd -> BCM4330B1.asus,grouper.hcd
+File: "brcm/BCM4330B1.asus,tf700t.hcd"
+Link: brcm/BCM4330B1.pegatron,chagall.hcd -> BCM4330B1.asus,tf700t.hcd
 
 Licence: Redistributable. See LICENCE.APACHE-2.0 for details.
 
@@ -34,8 +43,17 @@ Licence: Redistributable. See LICENCE.cypress for details.
 
 File: "brcm/brcmfmac4329-sdio.acer,picasso.txt"
 File: "brcm/brcmfmac4329-sdio.samsung,crespo.txt"
+File: "brcm/brcmfmac4329-sdio.asus,tf201.txt"
+Link: brcm/brcmfmac4329-sdio.asus,tf101.txt -> brcmfmac4329-sdio.asus,tf201.txt
+Link: brcm/brcmfmac4329-sdio.asus,tf101g.txt -> brcmfmac4329-sdio.asus,tf201.txt
+Link: brcm/brcmfmac4329-sdio.asus,sl101.txt -> brcmfmac4329-sdio.asus,tf201.txt
+File: "brcm/brcmfmac4329-sdio.asus,tf300t.txt"
+Link: brcm/brcmfmac4329-sdio.asus,tf300tg.txt -> brcmfmac4329-sdio.asus,tf300t.txt
+Link: brcm/brcmfmac4329-sdio.asus,tf300tl.txt -> brcmfmac4329-sdio.asus,tf300t.txt
 File: "brcm/brcmfmac4330-sdio.asus,grouper.txt"
 Link: brcm/brcmfmac4330-sdio.asus,tilapia.txt -> brcmfmac4330-sdio.asus,grouper.txt
+Link: brcm/brcmfmac4330-sdio.asus,tf700t.txt -> brcmfmac4330-sdio.asus,grouper.txt
+Link: brcm/brcmfmac4330-sdio.pegatron,chagall.txt -> brcmfmac4330-sdio.asus,grouper.txt
 
 Licence: GPLv2. See GPL-2 for details.
 

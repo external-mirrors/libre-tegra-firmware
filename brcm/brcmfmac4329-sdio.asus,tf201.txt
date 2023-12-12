@@ -1,0 +1,55 @@
+# SPDX-License-Identifier: GPL-2.0+
+# (C) Copyright 2024 The Android Open Source Project
+# NVRAM config file for the Azurewave NH611 BCM4329 WiFi/BT module
+# Found in the ASUS Transformer TF101 and TF201
+5g_cga=0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0
+aa2g=3
+aa5g=1
+ag0=0x82
+ag1=0x84
+boardflags=0x10000200
+boardflags2=0x00400000
+boardnum=2048
+boardrev=0x11
+boardtype=0x57e
+bxa2g=0
+bxa2g=0
+cckdigfilttype=1
+ccode=ALL
+cctl=0x0
+devid=0x432f
+hwhdr=0x05ffff031030031003100000
+macaddr=00:90:4c:c5:34:23
+mcs2gpo0=0x2222
+mcs2gpo1=0x2222
+mcs5gpo=0x22222222
+nocrc=1
+opo=0
+opo=0
+otpimagesize=182
+pa0b0=5107
+pa0b1=64308
+pa0b2=65182
+pa0itssit=62
+pa0maxpwr=66
+pa1b0=5970
+pa1b1=63982
+pa1b2=65122
+pa1hib0=5910
+pa1hib1=63998
+pa1hib2=65130
+pa1itssit=62
+pa1lob0=6654
+pa1lob1=63794
+pa1lob2=65134
+pa1maxpwr=60
+RAW1=80 02 fe ff
+rssisav2g=0x3
+rssisav5g=0x0
+rssismc2g=0xb
+rssismc5g=0x6
+rssismf2g=0xa
+rssismf5g=0x8
+sromrev=3
+vendid=0x14e4
+xtalfreq=37400
