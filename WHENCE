@@ -25,6 +25,7 @@ Link: brcm/BCM4330B1.asus,tilapia.hcd -> BCM4330B1.asus,grouper.hcd
 File: "brcm/BCM4330B1.asus,tf700t.hcd"
 Link: brcm/BCM4330B1.asus,tf600t.hcd -> BCM4330B1.asus,tf700t.hcd
 Link: brcm/BCM4330B1.pegatron,chagall.hcd -> BCM4330B1.asus,tf700t.hcd
+File: "brcm/BCM43341B0.asus,tf701t.hcd"
 
 Licence: Redistributable. See LICENCE.APACHE-2.0 for details.
 
@@ -59,6 +60,7 @@ Link: brcm/brcmfmac4330-sdio.asus,tilapia.txt -> brcmfmac4330-sdio.asus,grouper.
 Link: brcm/brcmfmac4330-sdio.asus,tf700t.txt -> brcmfmac4330-sdio.asus,grouper.txt
 Link: brcm/brcmfmac4330-sdio.pegatron,chagall.txt -> brcmfmac4330-sdio.asus,grouper.txt
 File: "brcm/brcmfmac43241b0-sdio.asus,p1801-t.txt"
+File: "brcm/brcmfmac43340-sdio.asus,tf701t.txt"
 
 Licence: GPLv2. See GPL-2 for details.
 
