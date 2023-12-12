@@ -24,3 +24,14 @@ Licence: Redistributable. See LICENCE.cypress for details.
 Licence: GPLv2. See GPL-2 for details.
 
 --------------------------------------------------------------------------
+
+Driver: atmel-maxtouch - Atmel Touchscreen driver
+
+File: maxtouch-acer-iconia-tab-a500.cfg
+
+Licence: GPLv2. See GPL-2 for details.
+
+Created using downstream kernel driver platform-data
+configuration
+
+--------------------------------------------------------------------------
