@@ -1,0 +1,45 @@
+# SPDX-License-Identifier: GPL-2.0+
+# (C) Copyright 2024 The Android Open Source Project
+# NVRAM config file for the Azurewave NH660 BCM4330 WiFi/BT module
+# Found in the Ouya
+aa2g=3
+ag0=255
+boardflags=0x00080200
+boardnum=22
+boardrev=0x11
+boardtype=0x0547
+bphyscale=17
+btc_params95=14
+cckdigfilttype=20             
+cckPwrIdxCorr=-15
+cckPwrOffset=5
+ccode=ALL
+dacrate2g=160
+devid=0x4360
+il0macaddr=00:11:22:33:44:55
+macaddr=00:11:22:33:44:55
+manfid=0x2d0
+maxp2ga0=0x42
+mcs2gpo0=0x6666
+mcs2gpo1=0x6666
+muxenab=0x10
+nocrc=1
+noise_cal_enable_2g=1
+ofdm2gpo=0x22222222
+ofdmdigfilttype2g=4
+pacalath2g=195
+pacalidx2g=40
+prodid=0x0552
+rfreg033_cck=0x1f
+rfreg033=0x19
+rssisav2g=0x7
+rssismc2g=0x3
+rssismf2g=0xa
+sromrev=3
+swctrlmap_2g=0x84444484,0x82424282,0x84444484,0x414242,0x1ff
+triso2g=7
+txalpfbyp2g=1
+txgaintbl=1
+vendid=0x14e4
+wl0id=0x431b
+xtalfreq=37400
