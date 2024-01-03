@@ -8,6 +8,14 @@ kernel.
 
 --------------------------------------------------------------------------
 
+Driver: HCI-BCM Broadcom Bluetooth firmware
+
+File: "brcm/BCM4329B1.samsung,crespo.hcd"
+
+Licence: Redistributable. See LICENCE.APACHE-2.0 for details.
+
+--------------------------------------------------------------------------
+
 Driver: brcmfmac - Broadcom 802.11n fullmac wireless LAN driver.
 
 File: brcm/brcmfmac4329-sdio.bin
@@ -20,6 +28,8 @@ File: cypress/cyfmac43340-sdio.bin
 Link: brcm/brcmfmac43340-sdio.bin -> ../cypress/cyfmac43340-sdio.bin
 
 Licence: Redistributable. See LICENCE.cypress for details.
+
+File: "brcm/brcmfmac4329-sdio.samsung,crespo.txt"
 
 Licence: GPLv2. See GPL-2 for details.
 
