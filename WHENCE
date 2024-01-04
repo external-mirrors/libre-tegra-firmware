@@ -7,3 +7,19 @@ if known, for each piece of firmware distributed for use with the Linux
 kernel.
 
 --------------------------------------------------------------------------
+
+Driver: brcmfmac - Broadcom 802.11n fullmac wireless LAN driver.
+
+File: brcm/brcmfmac4329-sdio.bin
+File: brcm/brcmfmac4330-sdio.abg.bin
+
+Licence: Redistributable. See LICENCE.broadcom_bcm43xx for details.
+
+File: cypress/cyfmac43340-sdio.bin
+Link: brcm/brcmfmac43340-sdio.bin -> ../cypress/cyfmac43340-sdio.bin
+
+Licence: Redistributable. See LICENCE.cypress for details.
+
+Licence: GPLv2. See GPL-2 for details.
+
+--------------------------------------------------------------------------
