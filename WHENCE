@@ -26,6 +26,8 @@ Link: brcm/BCM4330B1.asus,tilapia.hcd -> BCM4330B1.asus,grouper.hcd
 File: "brcm/BCM4330B1.asus,tf700t.hcd"
 Link: brcm/BCM4330B1.asus,tf600t.hcd -> BCM4330B1.asus,tf700t.hcd
 Link: brcm/BCM4330B1.pegatron,chagall.hcd -> BCM4330B1.asus,tf700t.hcd
+File: "brcm/BCM4330B1.lenovo,ideapad-yoga-11.hcd"
+Link: brcm/BCM4330B1.lenovo,ideapad-yoga-11-efi.hcd -> BCM4330B1.lenovo,ideapad-yoga-11.hcd
 File: "brcm/BCM4330B1.lg,p880.hcd"
 File: "brcm/BCM4330B1.lg,p895.hcd"
 File: "brcm/BCM43341B0.asus,tf701t.hcd"
@@ -63,6 +65,8 @@ File: "brcm/brcmfmac4330-sdio.asus,grouper.txt"
 File: "brcm/brcmfmac4330-sdio.asus,tf600t.txt"
 Link: brcm/brcmfmac4330-sdio.asus,tilapia.txt -> brcmfmac4330-sdio.asus,grouper.txt
 Link: brcm/brcmfmac4330-sdio.asus,tf700t.txt -> brcmfmac4330-sdio.asus,grouper.txt
+File: "brcm/brcmfmac4330-sdio.lenovo,ideapad-yoga-11.txt"
+Link: brcm/brcmfmac4330-sdio.lenovo,ideapad-yoga-11-efi.txt -> brcmfmac4330-sdio.lenovo,ideapad-yoga-11.txt
 File: "brcm/brcmfmac4330-sdio.lg,p880.txt"
 File: "brcm/brcmfmac4330-sdio.lg,p895.txt"
 File: "brcm/brcmfmac4330-sdio.ouya,ouya.txt"
