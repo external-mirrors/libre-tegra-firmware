@@ -77,7 +77,6 @@ def main():
             ".gitlab-ci.yml",
             ".pre-commit-config.yaml",
             "check_whence.py",
-            "configure",
             "CONTRIBUTING.md",
             "Makefile",
             "README.md",
