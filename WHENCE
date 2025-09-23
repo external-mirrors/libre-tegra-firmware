@@ -31,6 +31,7 @@ Link: brcm/BCM4330B1.lenovo,ideapad-yoga-11-efi.hcd -> BCM4330B1.lenovo,ideapad-
 File: "brcm/BCM4330B1.lg,p880.hcd"
 File: "brcm/BCM4330B1.lg,p895.hcd"
 File: "brcm/BCM43341B0.asus,tf701t.hcd"
+File: "brcm/BCM4354.xiaomi,mocha.hcd"
 
 Licence: Redistributable. See LICENCE.APACHE-2.0 for details.
 
@@ -44,6 +45,7 @@ File: brcm/brcmfmac4330-sdio.abg.bin
 Link: brcm/brcmfmac4330-sdio.lg,p880.bin -> brcmfmac4330-sdio.abg.bin
 Link: brcm/brcmfmac4330-sdio.lg,p895.bin -> brcmfmac4330-sdio.abg.bin
 File: "brcm/brcmfmac43241b0-sdio.asus,p1801-t.bin"
+File: "brcm/brcmfmac4354-sdio.xiaomi,mocha.bin"
 
 Licence: Redistributable. See LICENCE.broadcom_bcm43xx for details.
 
@@ -73,6 +75,7 @@ File: "brcm/brcmfmac4330-sdio.ouya,ouya.txt"
 Link: brcm/brcmfmac4330-sdio.pegatron,chagall.txt -> brcmfmac4330-sdio.asus,grouper.txt
 File: "brcm/brcmfmac43241b0-sdio.asus,p1801-t.txt"
 File: "brcm/brcmfmac43340-sdio.asus,tf701t.txt"
+File: "brcm/brcmfmac4354-sdio.xiaomi,mocha.txt"
 
 Licence: GPLv2. See GPL-2 for details.
 
