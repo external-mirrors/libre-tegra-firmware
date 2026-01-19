@@ -20,6 +20,7 @@ Link: brcm/BCM4329B1.asus,sl101.hcd -> BCM4329B1.asus,tf201.hcd
 Link: brcm/BCM4329B1.asus,tf300t.hcd -> BCM4329B1.asus,tf201.hcd
 Link: brcm/BCM4329B1.asus,tf300tg.hcd -> BCM4329B1.asus,tf201.hcd
 Link: brcm/BCM4329B1.asus,tf300tl.hcd -> BCM4329B1.asus,tf201.hcd
+File: "brcm/BCM4329B1.lg,star.hcd"
 File: "brcm/BCM4330B1.asus,grouper.hcd"
 File: "brcm/BCM4330B1.ouya,ouya.hcd"
 Link: brcm/BCM4330B1.asus,tilapia.hcd -> BCM4330B1.asus,grouper.hcd
@@ -63,6 +64,7 @@ Link: brcm/brcmfmac4329-sdio.asus,sl101.txt -> brcmfmac4329-sdio.asus,tf201.txt
 File: "brcm/brcmfmac4329-sdio.asus,tf300t.txt"
 Link: brcm/brcmfmac4329-sdio.asus,tf300tg.txt -> brcmfmac4329-sdio.asus,tf300t.txt
 Link: brcm/brcmfmac4329-sdio.asus,tf300tl.txt -> brcmfmac4329-sdio.asus,tf300t.txt
+File: "brcm/brcmfmac4329-sdio.lg,star.txt"
 File: "brcm/brcmfmac4330-sdio.asus,grouper.txt"
 File: "brcm/brcmfmac4330-sdio.asus,tf600t.txt"
 Link: brcm/brcmfmac4330-sdio.asus,tilapia.txt -> brcmfmac4330-sdio.asus,grouper.txt
