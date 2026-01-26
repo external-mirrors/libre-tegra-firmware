@@ -21,6 +21,8 @@ Link: brcm/BCM4329B1.asus,tf300t.hcd -> BCM4329B1.asus,tf201.hcd
 Link: brcm/BCM4329B1.asus,tf300tg.hcd -> BCM4329B1.asus,tf201.hcd
 Link: brcm/BCM4329B1.asus,tf300tl.hcd -> BCM4329B1.asus,tf201.hcd
 File: "brcm/BCM4329B1.lg,star.hcd"
+File: "brcm/BCM4329B1.motorola,daytona.hcd"
+File: "brcm/BCM4329B1.motorola,olympus.hcd"
 File: "brcm/BCM4330B1.asus,grouper.hcd"
 File: "brcm/BCM4330B1.ouya,ouya.hcd"
 Link: brcm/BCM4330B1.asus,tilapia.hcd -> BCM4330B1.asus,grouper.hcd
@@ -73,6 +75,8 @@ File: "brcm/brcmfmac4330-sdio.lenovo,ideapad-yoga-11.txt"
 Link: brcm/brcmfmac4330-sdio.lenovo,ideapad-yoga-11-efi.txt -> brcmfmac4330-sdio.lenovo,ideapad-yoga-11.txt
 File: "brcm/brcmfmac4330-sdio.lg,p880.txt"
 File: "brcm/brcmfmac4330-sdio.lg,p895.txt"
+File: "brcm/brcmfmac4329-sdio.motorola,olympus.txt"
+Link: brcm/brcmfmac4329-sdio.motorola,daytona.txt -> brcmfmac4329-sdio.motorola,olympus.txt
 File: "brcm/brcmfmac4330-sdio.ouya,ouya.txt"
 Link: brcm/brcmfmac4330-sdio.pegatron,chagall.txt -> brcmfmac4330-sdio.asus,grouper.txt
 File: "brcm/brcmfmac43241b0-sdio.asus,p1801-t.txt"
