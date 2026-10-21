@@ -34,6 +34,8 @@ File: "brcm/BCM4330B1.lenovo,ideapad-yoga-11.hcd"
 Link: brcm/BCM4330B1.lenovo,ideapad-yoga-11-efi.hcd -> BCM4330B1.lenovo,ideapad-yoga-11.hcd
 File: "brcm/BCM4330B1.lg,p880.hcd"
 File: "brcm/BCM4330B1.lg,p895.hcd"
+File: "brcm/BCM4330B1.samsung,bose.hcd"
+File: "brcm/BCM4330B1.samsung,n1.hcd"
 File: "brcm/BCM43341B0.asus,tf701t.hcd"
 File: "brcm/BCM4354.xiaomi,mocha.hcd"
 
@@ -48,6 +50,8 @@ File: brcm/brcmfmac4330-sdio.bin
 File: brcm/brcmfmac4330-sdio.abg.bin
 Link: brcm/brcmfmac4330-sdio.lg,p880.bin -> brcmfmac4330-sdio.abg.bin
 Link: brcm/brcmfmac4330-sdio.lg,p895.bin -> brcmfmac4330-sdio.abg.bin
+Link: brcm/brcmfmac4330-sdio.samsung,bose.bin -> brcmfmac4330-sdio.samsung,n1.bin
+File: "brcm/brcmfmac4330-sdio.samsung,n1.bin"
 File: "brcm/brcmfmac43241b0-sdio.asus,p1801-t.bin"
 File: "brcm/brcmfmac4354-sdio.xiaomi,mocha.bin"
 
@@ -81,6 +85,8 @@ File: "brcm/brcmfmac4329-sdio.motorola,olympus.txt"
 Link: brcm/brcmfmac4329-sdio.motorola,daytona.txt -> brcmfmac4329-sdio.motorola,olympus.txt
 File: "brcm/brcmfmac4330-sdio.ouya,ouya.txt"
 Link: brcm/brcmfmac4330-sdio.pegatron,chagall.txt -> brcmfmac4330-sdio.asus,grouper.txt
+File: "brcm/brcmfmac4330-sdio.samsung,n1.txt"
+File: "brcm/brcmfmac4330-sdio.samsung,bose.txt"
 File: "brcm/brcmfmac43241b0-sdio.asus,p1801-t.txt"
 File: "brcm/brcmfmac43340-sdio.asus,tf701t.txt"
 File: "brcm/brcmfmac4354-sdio.xiaomi,mocha.txt"
